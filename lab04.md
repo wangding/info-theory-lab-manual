@@ -26,6 +26,6 @@
 
 ## 六、实验结果
 
-  ![ ](images/lab04-01.png)
+  ![BSC 信道仿真实验结果 1](images/lab04-01.png)
   
-  ![ ](images/lab04-02.png)
+  ![BSC 信道仿真实验结果 2](images/lab04-02.png)

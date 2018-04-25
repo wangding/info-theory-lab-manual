@@ -30,7 +30,11 @@
 
   ![二进熵函数公式 ](images/lab02-04.png)
 
-## 六、实验结果
+## 六、实验地址
+
+- [熵函数曲线绘制](http://info-lab.wangding.in/labs/lab02.html)
+
+## 七、实验结果
 
 1. 在 Excel 中绘制的二进熵函数曲线图请参考下图。
 

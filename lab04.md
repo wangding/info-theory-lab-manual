@@ -24,7 +24,11 @@
 
 略。
 
-## 六、实验结果
+## 六、实验地址
+
+- [BSC 信道仿真](http://info-lab.wangding.in/labs/lab04.html)
+  
+## 七、实验结果
 
   ![BSC 信道仿真实验结果 1](images/lab04-01.png)
   

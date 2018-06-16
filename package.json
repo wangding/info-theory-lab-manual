@@ -1,0 +1,21 @@
+{
+  "name": "manual",
+  "version": "1.0.0",
+  "description": "信息科学基础实验手册",
+  "scripts": {
+    "test": "echo \"Nothing need to test!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/info-theory-lab-manual.git"
+  },
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/info-theory-lab-manual/issues"
+  },
+  "homepage": "https://github.com/wangding/info-theory-lab-manual#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

@@ -31,7 +31,7 @@
 
 ## 六、实验地址
 
-- [自信息量函数曲线绘制](http://info-lab.wangding.in/labs/lab01.html)
+- [自信息量函数曲线绘制](https://info-lab.wangding.in/labs/lab01.html)
 
 ## 七、实验结果
 

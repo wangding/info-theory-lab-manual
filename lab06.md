@@ -36,5 +36,5 @@
 
 ## 六、实验地址
 
-- [Huffman 编码算法](http://info-lab.wangding.in/labs/lab06.html)
+- [Huffman 编码算法](https://info-lab.wangding.in/labs/lab06.html)
   

@@ -26,7 +26,7 @@
 
 ## 六、实验地址
 
-- [BSC 信道仿真](http://info-lab.wangding.in/labs/lab04.html)
+- [BSC 信道仿真](https://info-lab.wangding.in/labs/lab04.html)
   
 ## 七、实验结果
 

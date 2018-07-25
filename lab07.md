@@ -44,4 +44,4 @@
 
 ## 六、实验地址
 
-- [Hamming 编码算法](http://info-lab.wangding.in/labs/lab07.html)
+- [Hamming 编码算法](https://info-lab.wangding.in/labs/lab07.html)

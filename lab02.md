@@ -32,7 +32,7 @@
 
 ## 六、实验地址
 
-- [熵函数曲线绘制](http://info-lab.wangding.in/labs/lab02.html)
+- [熵函数曲线绘制](https://info-lab.wangding.in/labs/lab02.html)
 
 ## 七、实验结果
 

@@ -28,7 +28,33 @@
 1. Excel 的图表功能（略）。
 2. 信源熵的概念及性质。
 
-  ![二进熵函数公式，王顶，408542507@qq.com](images/lab02-04.png)
+$$
+\begin{bmatrix}
+X \\
+P(X)
+\end{bmatrix}
+ = \begin{Bmatrix}
+ x_1 = 0 & x_2 = 1 \\
+ p & 1-p
+ \end{Bmatrix}
+ , 0 \leqslant  p \leqslant 1
+$$
+
+$$
+\begin{aligned}
+H(X) &= -\sum_ip(x_i)logp(x_i) \\
+     &= -[plogp+(1-p)log(1-p))] \\
+     &= H(p)
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+& a. H(X) \leqslant logn \\
+& b. H[\lambda P + (1-\lambda)Q]\geqslant \lambda H(P)+(1-\lambda )H(Q)
+\end{aligned}
+$$
+
 
 ## 实验地址
 

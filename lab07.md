@@ -30,15 +30,59 @@
 
 - (7,4) 汉明码的校验矩阵如下：
   
-<img alt="(7,4) 汉明码的校验矩阵，王顶，408542507@qq.com" src="images/lab07-01.png" width="331px" height="170px">
+$$
+\begin{aligned}
+H &= \begin{bmatrix}
+0 & 0 & 0 & 1 & 1 & 1 & 1 \\
+0 & 1 & 1 & 0 & 0 & 1 & 1 \\
+1 & 0 & 1 & 0 & 1 & 0 & 1
+\end{bmatrix} \\
+&= \begin{bmatrix}
+0 & 1 & 1 & 1 & 1 & 0 & 0 \\
+1 & 0 & 1 & 1 & 0 & 1 & 0 \\
+1 & 1 & 0 & 1 & 0 & 0 & 1
+\end{bmatrix}\text{(Standard Form)}
+\end{aligned}
+$$
 
 - (8,4) 线性分组码是对 (7,4) 汉明码的扩展，它的校验矩阵如下：
 
-<img alt="(8,4) 线性分组码的校验矩阵，王顶，408542507@qq.com" src="images/lab07-02.png" width="400px" height="220px">
+$$
+\begin{aligned}
+H' &= \begin{bmatrix}
+H & \begin{matrix}
+0 \\
+0 \\
+0
+\end{matrix}  \\
+\begin{matrix} 1 & 1 & 1 & 1 & 1 & 1 & 1 \end{matrix}  & 1
+\end{bmatrix}
+
+= \begin{bmatrix}
+0 & 1 & 1 & 1 & 1 & 0 & 0 & 0 \\
+1 & 0 & 1 & 1 & 0 & 1 & 0 & 0 \\
+1 & 1 & 0 & 1 & 0 & 0 & 1 & 0 \\
+1 & 1 & 1 & 1 & 1 & 1 & 1 & 1
+\end{bmatrix} \\
+&= \begin{bmatrix}
+0 & 1 & 1 & 1 & 1 & 0 & 0 & 0 \\
+1 & 0 & 1 & 1 & 0 & 1 & 0 & 0 \\
+1 & 1 & 0 & 1 & 0 & 0 & 1 & 0 \\
+1 & 1 & 1 & 1 & 0 & 0 & 0 & 1
+\end{bmatrix}\text{(Standard Form)}
+\end{aligned}
+$$
 
  - (8,4) 线性分组码的生成矩阵如下：
     
-<img alt="(8,4) 线性分组码的生成矩阵，王顶，408542507@qq.com" src="images/lab07-01.png" width="320px" height="170px">
+$$
+G' = \begin{bmatrix}
+1 & 0 & 0 & 0 & 0 & 1 & 1 & 1 \\
+0 & 1 & 0 & 0 & 1 & 0 & 1 & 1 \\
+0 & 0 & 1 & 0 & 1 & 1 & 0 & 1 \\
+0 & 0 & 0 & 1 & 1 & 1 & 1 & 1
+\end{bmatrix}\text{(Standard Form)}
+$$
 
 (8,4) 线性分组码的能够纠一位错误，并且检两位错误。
 

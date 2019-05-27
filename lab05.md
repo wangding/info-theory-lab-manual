@@ -27,9 +27,13 @@
 
 Excel 的图表功能（略），串联信道的信道容量（下图）。参考《信息论——基础理论及应用》的 124 页。
 
-![串联信道的信道容量](images/lab05-01.png)
-![串联信道的信道容量](images/lab05-02.png)
-![串联信道的信道容量，王顶，408542507@qq.com](images/lab05-03.png)
+![串联信道的信道容量，王顶，408542507@qq.com](images/lab05-01.png)
+
+| 串联 |  信道转移矩阵 |  信道容量  |
+| :---: | ---------     | ---------- |
+|   I    |  $$ [p(y/x)]=\begin{bmatrix} 1-p & p \\ p & 1-p  \end{bmatrix} $$    | $$ C_I = 1-H(p) $$  |
+| I,II   | $$ \begin{aligned} [p(z/x)] &= [p(y/x)][p(z/y)] \\ &= \begin{bmatrix} 1-p & p \\ p   & 1-p  \end{bmatrix} \begin{bmatrix}  1-p & p \\  p  & 1-p  \end{bmatrix} \\  &= \begin{bmatrix}  (1-p)^2 + p^2 & 2p(1-p) \\  2p(1-p) & (1-p)^2 +p^2  \end{bmatrix}  \end{aligned} $$  |  $$ C_{I,II}=1-H[2p(1-p)] $$ |
+| I,II,III | $$ \begin{aligned} [p(w/x)] &= [p(z/x)][p(w/z)] \\ &= \begin{bmatrix} (1-p)^2+p^2 & 2p(1-p) \\ 2p(1-p)   & (1-p)^2+p^2  \end{bmatrix} \begin{bmatrix}  1-p & p \\  p  & 1-p  \end{bmatrix} \\  &= \begin{bmatrix}  (1-p)^3 + 3p^2(1-p) & p^3+3p(1-p)^2 \\  p^3+3p(1-p)^2 & (1-p)^3 +3p^2(1-p)  \end{bmatrix}  \end{aligned} $$  | $$ C_{I,II,III}=1-H[p^3+3p(1-p)^2] $$ |
 
 ## 实验地址
 

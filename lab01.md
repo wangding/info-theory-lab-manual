@@ -27,7 +27,9 @@
 1. Excel 的图表功能（略）。
 2. 自信息的概念及性质。
 
-    ![自信息量函数，王顶，408542507@qq.com](images/lab01-03.png)
+$$
+I(x_i)=-logp_i, 0 \leqslant p_i \leqslant 1
+$$
 
 ## 实验地址
 

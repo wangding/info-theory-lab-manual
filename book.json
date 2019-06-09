@@ -19,9 +19,17 @@
     "bsz",
     "fancybox",
     "katex",
-    "image-wrapper"
+    "image-wrapper",
+    "gtalk@0.0.2"
   ],
   "pluginsConfig": {
+    "gtalk": {
+      "clientID": "52057f940b81e6a89b4d",
+      "clientSecret": "8b861e5f1886f2cb804e008e7f77e43cb5b9003f",
+      "repo": "info-theory-lab-manual",
+      "owner": "wangding",
+      "admin": ["wangding"]
+    },
     "anchor-navigation-ex": {
       "multipleH1": false
     },

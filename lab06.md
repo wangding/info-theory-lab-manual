@@ -34,7 +34,8 @@
 - Huffman 编码算法（略）
 - 文件操作和位运算（略）
 
-## 实验地址
+## 实验程序
 
-- [Huffman 编码算法](https://info-lab.wangding.in/labs/lab06.html)
+- [Huffman 编码实验程序](https://pan.baidu.com/s/1ge4o0TX)
+- [实验程序使用方法](https://www.bilibili.com/video/av55044677/)
   

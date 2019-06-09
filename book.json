@@ -20,7 +20,7 @@
     "fancybox",
     "katex",
     "image-wrapper",
-    "gtalk@0.0.2"
+    "gtalk"
   ],
   "pluginsConfig": {
     "gtalk": {
@@ -28,7 +28,8 @@
       "clientSecret": "8b861e5f1886f2cb804e008e7f77e43cb5b9003f",
       "repo": "info-theory-lab-manual",
       "owner": "wangding",
-      "admin": ["wangding"]
+      "admin": ["wangding"],
+      "labels": ["InfoLab"]
     },
     "anchor-navigation-ex": {
       "multipleH1": false

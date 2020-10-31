@@ -64,12 +64,12 @@ $$
 
 1. 在 Excel 中绘制的二进熵函数曲线图请参考下图。
 
-  ![二进熵函数曲线 Excel 绘制，王顶，408542507@qq.com](images/lab02-01.png)
+  ![二进熵函数曲线 Excel 绘制，王顶，408542507@qq.com](images/lab02-01.webp)
 
 2. 在 Matlab 中绘制的二进熵函数曲线图参考下图。
 
-  ![二进熵函数曲线 Matlab 绘制，王顶，408542507@qq.com](images/lab02-02.png)
+  ![二进熵函数曲线 Matlab 绘制，王顶，408542507@qq.com](images/lab02-02.webp)
 
 3. 在  Matlab 中绘制的三进熵函数曲面图参考下图。
 
-  ![三进熵函数曲面 Matlab 绘制，王顶，408542507@qq.com](images/lab02-03.png)
+  ![三进熵函数曲面 Matlab 绘制，王顶，408542507@qq.com](images/lab02-03.webp)

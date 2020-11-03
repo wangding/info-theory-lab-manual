@@ -58,7 +58,7 @@ $$
 
 ## 实验地址
 
-- [熵函数曲线绘制](https://info-lab.wangding.in/labs/lab02.html)
+- [熵函数曲线绘制](https://info-lab.wangding.co/labs/lab02.html)
 
 ## 实验结果
 

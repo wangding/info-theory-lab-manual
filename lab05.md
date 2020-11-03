@@ -37,7 +37,7 @@ Excel 的图表功能（略），串联信道的信道容量（下图）。参�
 
 ## 实验地址
 
-- [串联信道容量曲线绘制](https://info-lab.wangding.in/labs/lab05.html)
+- [串联信道容量曲线绘制](https://info-lab.wangding.co/labs/lab05.html)
   
 ## 实验结果
 

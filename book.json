@@ -13,7 +13,6 @@
     "search-plus",
     "sharing-plus",
     "anchor-navigation-ex",
-    "github-buttons@2.1.0",
     "splitter",
     "image-captions-extended",
     "bsz",
@@ -33,11 +32,6 @@
     },
     "anchor-navigation-ex": {
       "multipleH1": false
-    },
-    "github-buttons": {
-      "repo": "wangding/info-theory-lab-manual",
-      "types": ["star"],
-      "size": "small"
     },
     "forkmegithub-cn": {
       "url": "https://github.com/wangding/info-theory-lab-manual",

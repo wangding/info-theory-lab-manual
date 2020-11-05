@@ -16,7 +16,7 @@
 
 ## 阅读途径
 
-下载地址：[百度网盘](https://pan.baidu.com/s/1ge4o0TX)
+下载地址：[百度网盘](http://cdn.jsdelivr.net/gh/wangding/info-theory-lab-manual@master/beauty-of-mathematics.pdf)
 
 ## 文献目录
 

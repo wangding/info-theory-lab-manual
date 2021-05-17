@@ -33,7 +33,7 @@ $$
 
 ## 实验地址
 
-- [自信息量函数曲线绘制](https://info-lab.wangding.co/labs/lab01.html)
+- [自信息量函数曲线绘制](http://info-lab.wangding.co/labs/lab01.html)
 
 ## 实验结果
 
